@@ -1,0 +1,25 @@
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\bin\Debug\Prj_Escola.exe
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\bin\Debug\Prj_Escola.pdb
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.Properties.Resources.resources
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.csproj.GenerateResource.Cache
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.exe
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.pdb
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.frmPrincipal.resources
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.cadAluno.resources
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.csprojResolveAssemblyReference.cache
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.frmCadDisciplina.resources
+E:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.exe
+E:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.pdb
+E:\C#\DS - 31jul\Prj_Escola\Prj_Escola\bin\Debug\Prj_Escola.exe
+E:\C#\DS - 31jul\Prj_Escola\Prj_Escola\bin\Debug\Prj_Escola.pdb
+E:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.csprojResolveAssemblyReference.cache
+E:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.cadAluno.resources
+E:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.frmPrincipal.resources
+E:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.frmCadDisciplina.resources
+E:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.Properties.Resources.resources
+E:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.csproj.GenerateResource.Cache
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.frm_Cons_Cad_Disc.resources
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.frm_Cons_Cad_Aluno.resources
+G:\C#\DS - 31jul\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.frmSobre.resources
+C:\Users\Aluno\Documents\Matheus_Antonio_da_Paixao_Turma_B\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.exe
+C:\Users\Aluno\Documents\Matheus_Antonio_da_Paixao_Turma_B\Prj_Escola\Prj_Escola\obj\x86\Debug\Prj_Escola.pdb
